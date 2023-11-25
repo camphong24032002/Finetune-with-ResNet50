@@ -1,4 +1,4 @@
-# Finetune-with-ResNet50
+# Finetune with ResNet50
 The primary purpose of this repository is fine-tune `ResNet50` model with `CIFAR10` dataset.
 
 ## Initializing
