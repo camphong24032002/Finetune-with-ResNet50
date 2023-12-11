@@ -23,7 +23,7 @@ The architecture of ResNet:
 
 In this project, I have used CIFAR10 which includes 10 labels.
 
-To finetune the model with custom dataset, we need modify the final layer (fc layer in this model) which has the output units different from our dataset.
+To finetune the model with custom dataset, we need modify the fc layer which has the output units different from our dataset.
 
 ## Training model
 
